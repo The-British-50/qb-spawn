@@ -24,4 +24,10 @@ QB.Spawns = {
         location = "motel",
         label = "Motels",
     },
+
+    ["cityserv"] = { -- Needs to be unique
+        coords = vector4(-258.34, -978.29, 31.22, 21.62), -- Coords player will be spawned
+        location = "cityserv", -- Needs to be unique
+        label = "City Services", -- This is the label which will show up in selection menu.
+    },
 }
